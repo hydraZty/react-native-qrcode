@@ -72,6 +72,7 @@ prop      | type                 | default value
 `size`    | `number`             | `128`
 `bgColor` | `string` (CSS color) | `"#000"`
 `fgColor` | `string` (CSS color) | `"#FFF"`
+`ecLevel` | `number` (1, 0, 3, 2)| `0` (M level 15%)
 
 <img src='qrcode.png' height = '256' width = '256'/>
 
